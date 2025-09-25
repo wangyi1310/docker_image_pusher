@@ -1,1 +1,1 @@
-gopeed/gopeed:latest
+liwei2633/gopeed
