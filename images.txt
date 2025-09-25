@@ -1,1 +1,1 @@
-zzsrv/openwrt:latest
+gopeed/gopeed:latest
