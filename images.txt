@@ -1,1 +1,1 @@
-bitnami/etcd:latest
+bitnami/etcd
