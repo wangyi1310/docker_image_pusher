@@ -1,1 +1,1 @@
-json-tools-next
+fevrax/json-tools
