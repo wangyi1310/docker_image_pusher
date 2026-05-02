@@ -1,1 +1,1 @@
-fevrax/json-tools
+docker.io/docker/dockerfile:1.7
