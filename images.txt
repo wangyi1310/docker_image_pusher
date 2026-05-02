@@ -1,1 +1,1 @@
-docker.io/docker/dockerfile:1.7
+docker.io/library/node:24-bookworm@sha256:3a09aa6354567619221ef6c45a5051b671f953f0a1924d1f819ffb236e520e6b
