@@ -1,1 +1,2 @@
 docker.io/library/golang:1.23-bookworm
+nginx:1.25.3
