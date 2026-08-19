@@ -1,1 +1,1 @@
-node:latest
+golang:1.26-bookworm
