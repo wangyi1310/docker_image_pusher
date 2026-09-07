@@ -1,1 +1,1 @@
-golang:1.26-bookworm
+ghcr.io/openclaw/openclaw:latest
